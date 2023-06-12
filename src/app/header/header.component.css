@@ -1,0 +1,24 @@
+
+   li {
+    float:left; /*pour IE*/
+    border-left:1px solid rgb(155, 79, 79);
+    }
+   ul li a {
+    display:block;
+    float:left;   
+    width:443px;
+    line-height:50px; /*hauteur de l'image de fond*/
+    background:rgb(155, 79, 79)  repeat-x;
+    color:#DCDCDC;
+    text-decoration:none;
+    text-align:center;
+    font-style:bold;
+    }
+   
+ .disabled{
+            pointer-events: none;
+            cursor: default;
+          }
+    
+
+   
